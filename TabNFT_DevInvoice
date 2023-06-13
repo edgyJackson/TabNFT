@@ -1,0 +1,124 @@
+--------------------------------------------------------------------------------------------------
+TabNFT Invoice
+--------------------------------------------------------------------------------------------------
+
+Reggie Johnson
+[Your Address]
+[City, State, ZIP]
+[Email Address]
+[Phone Number]
+[Invoice Date]
+
+Invoice No: [Invoice Number]
+
+--------------------------------------------------------------------------------------------------
+
+Bill To:
+[Client Name]
+[Client Address]
+[City, State, ZIP]
+
+--------------------------------------------------------------------------------------------------
+
+Description:
+This invoice includes the charges for the services provided as outlined below:
+
+--------------------------------------------------------------------------------------------------
+
+Item                                                 Quantity     Amount
+--------------------------------------------------  ---------  -----------
+1. Enhancements to $tab Token Contract               1            $1,000                                         
+   - Burn Functionality                         -----------       $250
+     - Design and implementation                -----------       $125
+     - Testing and bug fixes                    -----------       $125
+   - Enhancement 2: Enhanced Token Metadata     -----------       $400
+     - Dynamic metadata integration             -----------       $200
+     - Improved metadata display                -----------       $200
+   - Enhancement 3: Minting with Custom         -----------       $350
+     Parameters
+     - Customizable minting fees                -----------       $175
+     - Customizable token supply                -----------       $175
+   ...
+
+2. Integration of $tab Token with Custom NFT        1             $1,750
+   Functionality                                             
+   - Integration Work                           -----------       $750
+     - Backend integration                      -----------       $375
+     - Frontend integration                     -----------       $375
+   - Custom NFT Functionality                   -----------       $1,000
+     - Royalty payment integration              -----------       $500
+     - Batch minting support                    -----------       $500
+   ...
+
+3. Development of Associated NFT Managing App       1             $2,500                                          
+   - UI/UX Design                               -----------       $750
+     - Wireframing                              -----------       $250
+     - Prototyping                              -----------       $250
+     - User Interface Design                    -----------       $250
+   - Frontend Development                       -----------       $1,000
+     - App structure and setup                  -----------       $250
+     - Implementation of features               -----------       $500
+     - Integration with blockchain              -----------       $250
+   ...
+
+4. Creation of NFT Smart Contracts                  1             $1,500                                        
+   - Contract Design and Development            -----------       $1,500
+
+5. Testing and Documentation                        1             $750                                         
+   - Testing                                    -----------       $250
+     - Unit testing                             -----------       $125
+     - Integration testing                      -----------       $125
+     - Performance testing                      -----------       $125
+   - Documentation                              -----------       $500
+     - User guide                               -----------       $250
+     - API documentation                        -----------       $250
+   ...
+
+6. Post-Integration Support                         1             $500                                          
+   - Support                                    -----------       $500
+     - Bug fixes and updates                    -----------       $500
+   ...
+
+--------------------------------------------------------------------------------------------------
+
+Tax/VAT: $XXXX (if applicable)
+
+--------------------------------------------------------------------------------------------------
+
+**Total: $XXXX**
+
+Payment Terms:
+Payment is due within [Number of Days] days from the invoice date. Please make the payment using the following details:
+
+Bank Name: [Your Bank Name]
+Account Holder: [Your Name]
+Account Number: [Your Account Number]
+Routing Number: [Your Routing Number]
+Swift Code: [Swift Code, if applicable]
+
+Please include the invoice number as the reference when making the payment.
+
+If you have any questions or concerns regarding this invoice, please don't hesitate to contact me.
+
+Thank you for your business!
+
+Sincerely,
+Reggie Johnson
+
+/*****************************************************
+ *  WARNING: COPYRIGHT INFRINGEMENT NOTICE
+ *****************************************************
+ *
+ * NOTICE: This contract, including its code and associated documentation, is
+ * the property of Reggie Johnson and is protected by intellectual property
+ * laws. Unauthorized use, reproduction, distribution, or modification of this
+ * contract, whether in part or in whole, is strictly prohibited and may result
+ * in legal action.
+ *
+ * All rights reserved. No part of this contract may be reproduced, distributed,
+ * or transmitted in any form or by any means, including photocopying, recording,
+ * or other electronic or mechanical methods, without the prior written permission
+ * of [Your Company Name], except in the case of brief quotations embodied in
+ * critical reviews and certain other noncommercial uses permitted by copyright law.
+ *
+ *****************************************************/
