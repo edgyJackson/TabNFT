@@ -25,9 +25,9 @@ This invoice includes the charges for the services provided as outlined below:
 
 --------------------------------------------------------------------------------------------------
 
-Item                                                 Quantity     Amount
---------------------------------------------------  ---------  -----------
-1. Enhancements to $tab Token Contract               1            $1,000                                         
+Item                                              Quantity     Amount
+----------------------------------------------  -----------   -----------
+1. Enhancements to $tab Token Contract              [1]           $1,000                                         
    - Burn Functionality                         -----------       $250
      - Design and implementation                -----------       $125
      - Testing and bug fixes                    -----------       $125
@@ -40,7 +40,7 @@ Item                                                 Quantity     Amount
      - Customizable token supply                -----------       $175
    ...
 
-2. Integration of $tab Token with Custom NFT        1             $1,750
+2. Integration of $tab Token with Custom NFT        [1]           $1,750
    Functionality                                             
    - Integration Work                           -----------       $750
      - Backend integration                      -----------       $375
@@ -50,7 +50,7 @@ Item                                                 Quantity     Amount
      - Batch minting support                    -----------       $500
    ...
 
-3. Development of Associated NFT Managing App       1             $2,500                                          
+3. Development of Associated NFT Managing App       [1]           $2,500                                          
    - UI/UX Design                               -----------       $750
      - Wireframing                              -----------       $250
      - Prototyping                              -----------       $250
@@ -61,10 +61,10 @@ Item                                                 Quantity     Amount
      - Integration with blockchain              -----------       $250
    ...
 
-4. Creation of NFT Smart Contracts                  1             $1,500                                        
+4. Creation of NFT Smart Contracts                  [1]           $1,500                                        
    - Contract Design and Development            -----------       $1,500
 
-5. Testing and Documentation                        1             $750                                         
+5. Testing and Documentation                        [1]           $750                                         
    - Testing                                    -----------       $250
      - Unit testing                             -----------       $125
      - Integration testing                      -----------       $125
@@ -74,7 +74,7 @@ Item                                                 Quantity     Amount
      - API documentation                        -----------       $250
    ...
 
-6. Post-Integration Support                         1             $500                                          
+6. Post-Integration Support                         [1]           $500                                          
    - Support                                    -----------       $500
      - Bug fixes and updates                    -----------       $500
    ...
